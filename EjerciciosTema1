@@ -1,0 +1,87 @@
+EJERCICIOS TEMA 2
+
+EJERCICIO A
+Cierta empresa se dedica a la comercialización un determinado producto, de cuyos movimientos realizados durante el primer trimestre del año se dispone la siguiente información: 
+
+FECHA	MOVIMIENTO	CANTIDAD (unidades)	PRECIO/UNIDAD
+01/01	Existencia inicial	1.000	55 €
+06/01	Entrada	400	60 €
+10/01	Salida	300	80 €
+15/01	Salida	600	85 €
+17/01	Entrada	700	65 €
+25/01	Salida	500	88 €
+
+La empresa obtuvo un descuento promocional del 20% en la compra realizada el 06/01. Por otro lado, los clientes devolvieron 200 unidades en la venta del día 25/01. La empresa también efectuó una devolución, en este caso de 100 unidades, de las adquiridas en día 17/01. 
+
+Con estos datos, se desea conocer el valor del consumo de materiales del primer trimestre, así como el valor de las existencias finales de materiales, utilizando para ello los métodos C.M.P., F.I.F.O y L.I.F.O. Compruébese, para el método F.I.F.O., que se cumple la igualdad: Consumo = Existencias Iniciales + Compras – Existencias Finales (sólo para el método F.I.F.O.)
+
+ 
+EJERCICIO B
+IND S.A., es una cadena de gimnasios que opera en el ámbito nacional. Su plantilla está constituida por los siguientes trabajadores:
+
+•	Personal directivo: dos directivos que cobran un salario bruto mensual de 3.000 € cada uno de ellos.
+•	Monitores: 5, a cada uno de los cuales se paga un sueldo bruto mensual de 2.000 €  
+•	Personal administrativo: un trabajador que cobra mensualmente un sueldo bruto de 1.000 € 
+•	Un vigilante, que mensualmente cobra 1.200 €, más otros 200 en concepto de complemento por nocturnidad.
+
+Además, la empresa paga a todos sus trabajadores dos pagas extras al año, una en julio y otra en diciembre, por el mismo valor de cada una de ellas por el importe de un sueldo bruto mensual más complementos. Por convenio, los directivos cobran una paga extra adicional de beneficios en el mes de abril de cada año, por el 50% del sueldo bruto más complementos.
+
+La Seguridad Social a abonar por parte de la empresa es la siguiente:
+•	Personal directivo: 30%
+•	Monitores, personal administrativo y vigilante: 20%
+
+Durante el mes de octubre, los monitores han hecho un total de 20 horas extraordinarias (4 horas por monitor), las cuales se abonan a un precio unitario de 100 €. Por otro lado, la empresa abona complementos por antigüedad, que en octubre se aplican a los dos directivos, que tienen acumulados dos quinquenios cada uno de ellos y a un monitor, que acumula otro quinquenio. El valor de cada quinquenio es del 5% del sueldo bruto. 
+
+Con estos datos, se desea calcular el coste de la mano de obra que ha tenido la empresa en el mes de octubre, comparándola con la del gasto de ese mismo mes.
+
+
+EJERCICIO C
+Cierta empresa, dedicada a la comercialización, de dos artículos (A y B), se dispone a efectuar el cálculo de sus costes mensuales. Para ello, dispone de los siguientes datos:
+
+Datos de almacén:
+En cuanto al producto A, las existencias al comienzo del mes eran de 200 kgs, valorados a un precio de 5 €/kg. El día 4 del mes, se adquirieron 300 kgs más, a un precio unitario de 6 €/kg. La empresa tuvo que abonar, como consecuencia de la compra de dicho producto, unos gastos de transporte de 100 €. A lo largo del mes se vendieron un total de 400 kgs, a un precio unitario de 10 €/kg, concediendo descuentos promocionales del 10% del importe de las ventas. Los clientes devolvieron un total de 20 kgs. Todas las ventas se produjeron después del día 4.
+
+Con relación al producto B, se disponía al comienzo del de 300 kgs, siendo el valor total del stock 1.500 €. El día 10 del mes se adquirieron 200 unidades más, a un precio unitario de 8 €/kg. A lo largo del mes la empresa vendió un total de 500 kgs de producto B, 200 antes de la compra, el resto después. El precio de venta unitario de los productos B, fue de 15 €/kgs. La mitad de la    última venta fue devuelta por el cliente.
+La empresa valora sus existencias y consumos empleando el criterio del Coste Medio Ponderado
+
+Datos de mano de obra:
+La nómina mensual de cada uno de sus dos administrativos presenta el siguiente detalle:
+•	Sueldo base: 1.000 €
+•	Complemento de responsabilidad: 200 €
+•	Dietas: 150 €
+•	Complemento por antigüedad: 150 €
+•	Horas extraordinarias: 120 €
+•	Seguridad Social a cargo de la empresa:
+•	Contingencias comunes: 22,6%
+•	Accidentes de Trabajo y Enfermedades Profesionales: 6,2%
+•	Desempleo, Fondo de Garantía Social y FP: 1,2%
+
+Se abona a los trabajadores dos pagas extras al año, por el importe del sueldo base más los complementos (de responsabilidad y de antigüedad)
+Además de los administrativos, trabajan en la empresa dos operarios más (asociados a la sección de compras), cada uno de los cuales cobra mensualmente 1.200 €. El número de pagas extras percibidas al año y  los tipos de cotización a la Seguridad Social aplicables son los mismos que en el caso de los administrativos.
+
+Los datos del inmovilizado de la empresa eran los siguientes:
+
+ACTIVO
+Construcciones	60.000
+Maquinaria	10.000
+Mobiliario	3.000
+Ordenadores	5.000
+-Amort. Acum. inmov. mat.	-1.000
+
+El inmovilizado material se amortiza de la siguiente forma:
+•	Construcciones: amortización lineal, en 50 años. El pasado año (cuando la vida útil del edificio era de 30 años), se llevó a cabo una valoración del importe recuperable del edificio, estimándolo en 30.000 €.
+Se considera que la mitad del edificio se dedica a actividades administrativas, el 30% a actividades de producción y el resto a actividades comerciales.
+•	Maquinaria: amortización en función de su utilización. Durante el mes se ha empleado un total de 400 horas, de las 120.000 de vida útil estimada.
+•	Mobiliario: amortización lineal. Cuota anual aplicada: 15%
+•	Ordenadores: métodos de los números dígitos crecientes. Vidal útil estimada de los   ordenadores: 5 años. El actual es el 4º año de vida de los equipos.
+Datos de otros gastos:
+•	Recibo de la luz: 1.000 €. Se estima que la mitad de dicho importe corresponde al  consumo del mes.
+•	Prima de seguros del local: 960 € (prima anual)
+•	Publicidad: 3.000 €. La campaña, contratada este mes, tendrá una duración de 6 meses.
+•	Pérdidas derivadas de la venta de acciones: 400 €
+
+Con estos datos, se desea:
+a.	Clasificar los diferentes costes incurridos por la empresa durante el mes, en función de la actividad (de producción, comerciales y generales) y de su imputación a productos.
+b.	Calcular el valor de los diferentes costes.
+c.	Conocer el precio de coste de cada uno de los productos, si los costes indirectos de producción se imputan a los productos en función de los kgs adquiridos, y los costes comerciales en función del valor de las ventas (los costes administrativos se llevan directamente a resultados)
+
