@@ -1,0 +1,21 @@
+# Entornos y cachés
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Salidas
+*.xlsx
+*.xlsm
+*.pdf
+
+# IDE
+.vscode/
+.idea/
